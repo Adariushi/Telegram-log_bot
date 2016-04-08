@@ -1,7 +1,6 @@
-# Telegram Support Bot
+# Telegram log Bot
 This Bot is written in Python with the help from the pyTelegramBotAPI.
 
-Let's start by installing everything you need.
 
 # Installation
 
@@ -19,12 +18,11 @@ sudo pip2 install pyTelegramBotAPI
 Finally clone the repo
 
 ```
-git clone https://github.com/appendhc/lsd_support_bot.clone
+git clone https://github.com/AmirDariushi/Telegram-log_bot.git
 ```
 
 # Getting started
 
-Create 2 new files named "loggingids.json" and "user.txt"
 Open the file "bot.py" and replace following IDs with your options:
 
 ```
